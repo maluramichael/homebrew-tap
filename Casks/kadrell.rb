@@ -1,6 +1,6 @@
 cask "kadrell" do
-  version "1.62.0"
-  sha256 "a5247e74cc0da78c81ca20a9ea33f743824d18e32393abe59a64ec0eda308514"
+  version "1.65.0"
+  sha256 "3c3794b459e42c927c9cdf5935889f1d15cb6f9978dd810879ee09636b8af5f6"
 
   url "https://kadrell.malura.de/download/Kadrell-#{version}.dmg"
   name "Kadrell"
